@@ -1,0 +1,12 @@
+# credentials / config local
+config.h
+
+# Arduino / IDE
+*.swp
+.DS_Store
+.vscode/
+.idea/
+
+# build artifacts (selon outils)
+build/
+.pio/
