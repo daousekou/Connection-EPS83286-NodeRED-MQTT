@@ -1,0 +1,14 @@
+# Identifiants et configuration locale
+config.h
+.env
+
+# Arduino / PlatformIO
+build/
+.pio/
+.vscode/
+.idea/
+*.swp
+
+# Système
+.DS_Store
+Thumbs.db
